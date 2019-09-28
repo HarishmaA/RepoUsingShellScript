@@ -1,5 +1,7 @@
 This repo is created using .sh script. This is for experimenting git commands
 
+**Follow the steps below**
+
 ### Execute with chmod +x <filename.sh>
 
 ### Step 1 : Local project folder path
