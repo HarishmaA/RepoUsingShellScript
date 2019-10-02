@@ -33,9 +33,4 @@ git push --set-upstream origin master
 cd "$PROJECT_PATH"
 ### Step 13 : Now you can check the repo
 echo "Done. Go to https://github.com/$USERNAME/$REPO_NAME to see." 
-<<<<<<< HEAD
 echo " *** You're now in your project root. ***"
-=======
-echo " 
-*You're now in your project root.*"
->>>>>>> branch1
